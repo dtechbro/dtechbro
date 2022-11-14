@@ -9,5 +9,3 @@
 Developer-in-Tech/Developer-in-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<a href="https://app.daily.dev/anonymous_developer"><img src="https://api.daily.dev/devcards/cc9f97eee2ec4b878b367ee374a7a703.png?r=703" width="400" alt="Muhammad-Nabeel Olaoye's Dev Card"/></a>
