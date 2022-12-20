@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad-Nabeel(dtechbro)</h1>
+<h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
 <h3 align="center">A top-tier Frontend Developer </h3>
 
 
