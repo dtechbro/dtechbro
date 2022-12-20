@@ -2,12 +2,12 @@
 <h3 align="center">A top-tier Frontend Developer </h3>
 
 <table>
-  <tr>
+  
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
-  </tr>
-  <tr>
+  
+  
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
-  </tr>
+  
 </table>
 
 <br>
