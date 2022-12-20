@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
 <h3 align="center">A top-tier Frontend Developer </h3>
 
-<table>
-  
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
-  
-</table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
