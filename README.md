@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
 <h3 align="center">A top-tier Frontend Developer </h3>
 
+Hello and welcome to my GitHub profile! My name is Muhammad-Nabeel (dtechbro) and I am a Frontend developer.
+
+I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
+
+If you have any questions or just want to chat about Frontend development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
