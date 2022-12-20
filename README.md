@@ -3,7 +3,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning C programming language...
 - 💞️ I’m looking to collaborate on problem solving projects...
 - 📫 How to reach me on twitter https://twitter.com/dtechbro...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
 --->
