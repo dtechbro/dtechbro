@@ -9,8 +9,8 @@ If you have any questions or just want to chat about Frontend development, don't
 
 <br><br><br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-in-Tech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
 
 <!---
@@ -23,5 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on problem solving projects...
 - 📫 How to reach me on twitter https://twitter.com/dtechbro...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
 --->
