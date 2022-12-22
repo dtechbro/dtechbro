@@ -7,13 +7,17 @@ I have always been drawn to the power and potential of open source technology, a
 
 If you have any questions or just want to chat about Frontend development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
-<br><br><br><br>
+<br><br><br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-in-Tech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
 
-#### Top Repositories
+
+
+
+
+<!-- #### Top Repositories
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,7 +25,7 @@ If you have any questions or just want to chat about Frontend development, don't
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-in-Tech&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+</a> -->
 
 
 
