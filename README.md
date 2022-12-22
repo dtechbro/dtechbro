@@ -13,6 +13,19 @@ If you have any questions or just want to chat about Frontend development, don't
 | ------------- | ------------- |
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
 
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-in-Tech&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-in-Tech&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+
+
+
 <!---
 Developer-in-Tech/Developer-in-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
