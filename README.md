@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  | <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/> | <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/> |
-  | ------------- | ------------- |
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
 
 
 
@@ -36,7 +35,7 @@ If you have any questions or just want to chat about Frontend development, don't
 | ------------- | ------------- |
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
 
-
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
 <h3 align="center">A top-tier Frontend Developer </h3> 
