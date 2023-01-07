@@ -49,7 +49,7 @@ If you have any questions or just want to chat about Frontend development, don't
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
 
 
-
+<a href="https://www.buymeacoffee.com/dtechbro"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
 
 
 
