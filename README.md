@@ -22,7 +22,6 @@
   
 </div>
 
----
 Hello and welcome to my GitHub profile! My name is Muhammad-Nabeel (dtechbro) and I am a Frontend developer.
 
 I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
