@@ -30,8 +30,9 @@ I have always been drawn to the power and potential of open source technology, a
 If you have any questions or just want to chat about Frontend development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas. [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:princeakinola05@gmail.com)
 
 ---
-### 🔩 GitHub Stat, Languages and Tools.<br>
+### 🔩 GitHub Stat, Languages and Tools.
 
+<br>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
