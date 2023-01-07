@@ -4,18 +4,23 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/olaoye-md-nabeel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
+  <a href="https://www.linkedin.com/in/olaoye-md-nabeel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/dtechbro" target="_blank">
+  <a href="https://twitter.com/dtechbro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Developer-in-Tech&style=flat-square&color=blue" alt=""/>
+  
+<h1>
+  Muhammad-Nabeel (dtechbro)'s profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
-<h3 align="center">A top-tier Frontend Developer </h3>
+<!-- <h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
+<h3 align="center">A top-tier Frontend Developer </h3> -->
 
 Hello and welcome to my GitHub profile! My name is Muhammad-Nabeel (dtechbro) and I am a Frontend developer.
 
