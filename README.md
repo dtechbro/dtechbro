@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/olaoye-md-nabeel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://dtechbro.netlify.app/">
+<!--   <a href="https://dtechbro.netlify.app/">
      <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/dtechbro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -50,7 +50,9 @@ If you have any questions or just want to chat about Frontend development, don't
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-in-Tech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
+ </div>
 
 <br><br>
 
