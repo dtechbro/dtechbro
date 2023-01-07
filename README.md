@@ -7,7 +7,9 @@
   <a href="https://www.linkedin.com/in/olaoye-md-nabeel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  [![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://dtechbro.netlify.app/)
+  <a>
+    [![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://www.dtechbro.netlify.app/)
+  </a>
   <a href="https://twitter.com/dtechbro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -49,6 +51,7 @@ If you have any questions or just want to chat about Frontend development, don't
 | ------------- | ------------- |
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
 
+<br><br>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/dtechbro"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
