@@ -15,12 +15,11 @@
 <img src="https://komarev.com/ghpvc/?username=Developer-in-Tech&style=flat-square&color=blue" alt=""/>
   
 <h1>
-  Muhammad-Nabeel (dtechbro)'s profile!
+  <!-- Welcome to --> Muhammad-Nabeel (dtechbro)'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=blue&background=000000&center=true&vCenter=true&width=435&lines=Frontend+Developer+;Always+Love+learning+new+things;+Experienced+UI%2FUX+Designer+;New+to+Python" alt="Typing SVG" /></a>
 
-<!-- <h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
-<h3 align="center">A top-tier Frontend Developer </h3> -->
 
 Hello and welcome to my GitHub profile! My name is Muhammad-Nabeel (dtechbro) and I am a Frontend developer.
 
@@ -36,20 +35,16 @@ If you have any questions or just want to chat about Frontend development, don't
 
 
 
-
+<!-- <h1 align="center">Hi 👋, I'm Muhammad-Nabeel (dtechbro)</h1>
+<h3 align="center">A top-tier Frontend Developer </h3> -->
 
 <!-- #### Top Repositories
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-in-Tech&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-in-Tech&repo=anuraghazra.github.io&theme=buefy" />
 </a> -->
-
-
-
 
 <!---
 Developer-in-Tech/Developer-in-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
