@@ -36,7 +36,10 @@ If you have any questions or just want to chat about Frontend development, don't
 ### 🔩 GitHub Stat, Languages and Tools.
 
 <br>
-<table></table>
+<table>
+  <tr></tr>
+  <tr></tr>
+</table>
 <div>
   <img align="left" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   <img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
