@@ -52,10 +52,10 @@ If you have any questions or just want to chat about Frontend development, don't
 
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-in-Tech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dtechbro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtechbro&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-in-Tech&theme=light" alt="dtechbro" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" alt="dtechbro" />
  </div>
 
 <br><br>
