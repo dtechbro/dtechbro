@@ -53,6 +53,7 @@ If you have any questions or just want to chat about Frontend development, don't
 <br>
 
 [![An image of @developerintech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerintech)](https://holopin.io/@developerintech)
+<a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="652" alt="Muhammad-Nabeel's Dev Card"/></a>
 
 <br>
 
