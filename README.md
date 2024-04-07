@@ -5,14 +5,24 @@
 
 
 <div id="badges">
+<!-- Linkedin badge -->
   <a href="https://www.linkedin.com/in/olaoye-md-nabeel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://dtechbro.netlify.app/">
+
+<!-- Portfolio badge -->
+  <a href="https://dtechbro.netlify.app/">
      <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/>
-  </a> -->
+  </a>
+  
+<!-- Twitter badge -->
   <a href="https://twitter.com/dtechbro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+<!-- wakatime badge -->
+  <a href="https://wakatime.com/@61256cb1-bc04-43ff-b491-f526a7a9668b">
+    <img src="https://wakatime.com/badge/user/61256cb1-bc04-43ff-b491-f526a7a9668b.svg" alt="Total time coded since Jun 9 2023" />
   </a>
 </div>
 
