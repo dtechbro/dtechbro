@@ -66,7 +66,7 @@ If you have any questions or just want to chat about Frontend development, don't
 | ------------- | ------------- |
 
 
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" alt="dtechbro" /> | <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="" alt="Muhammad-Nabeel's Dev Card"/></a> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" alt="dtechbro" /> | <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="400" alt="Muhammad-Nabeel's Dev Card"/></a> |
 | ------------- | ------------- |
 
 <div align="center">
