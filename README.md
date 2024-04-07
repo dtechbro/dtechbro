@@ -69,16 +69,12 @@ If you have any questions or just want to chat about Frontend development, don't
 | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" alt="dtechbro" /> | <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="400" alt="Muhammad-Nabeel's Dev Card"/></a> |
 | ------------- | ------------- |
 
-| [![An image of @developerintech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerintech)](https://holopin.io/@developerintech) | <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="50%" alt="Muhammad-Nabeel's Dev Card"/></a> |
-| ------------- | ------------- |
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" width="50%" alt="dtechbro" />
   <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="50%" alt="Muhammad-Nabeel's Dev Card"/></a>
-</div>
+</div> -->
 
 <br><br>
-
-[![An image of @developerintech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerintech)](https://holopin.io/@developerintech)
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/dtechbro"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
@@ -118,4 +114,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=green" alt="medium Badge"/>
 </a>
 
+Holophin badge
+[![An image of @developerintech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerintech)](https://holopin.io/@developerintech)
 --->
