@@ -1,8 +1,5 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
-
-
 
 <div id="badges">
 <!-- Linkedin badge -->
@@ -18,6 +15,11 @@
 <!-- Twitter badge -->
   <a href="https://twitter.com/dtechbro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+<!-- Mail badge -->
+  <a href="mailto:princeakinola05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -38,7 +40,7 @@
 
 Hello and welcome to my GitHub profile! My name is Muhammad-Nabeel (dtechbro) and I am a Frontend developer.
 
-I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
+I have always been drawn to the power and potential of open-source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
 If you have any questions or just want to chat about Frontend development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas. [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:princeakinola05@gmail.com)
 
@@ -53,27 +55,24 @@ If you have any questions or just want to chat about Frontend development, don't
 <div>
   <img align="left" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   <img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/fc4cab9ccd5e6e62ac62dbb5aab11a9e5507b438c42cc82363ce184cbe1ccdaa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-
 </div>
 
-<br>
-
-[![An image of @developerintech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerintech)](https://holopin.io/@developerintech)
-<a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="652" alt="Muhammad-Nabeel's Dev Card"/></a>
-
-<br>
+<br><br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dtechbro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtechbro&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" alt="dtechbro" />
- </div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" width="50%" alt="dtechbro" />
+  <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="50%" alt="Muhammad-Nabeel's Dev Card"/></a>
+</div>
 
 <br><br>
+
+[![An image of @developerintech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerintech)](https://holopin.io/@developerintech)
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/dtechbro"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
@@ -103,8 +102,8 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @Developer-in-Tech
 - 👀 I’m interested in Programming and Designing...
 - 🌱 I’m currently learning C programming language...
-- 💞️ I’m looking to collaborate on problem solving projects...
-- 📫 How to reach me on twitter https://twitter.com/dtechbro...
+- 💞️ I’m looking to collaborate on problem-solving projects...
+- 📫 How to reach me on Twitter https://twitter.com/dtechbro...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-in-Tech)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-in-Tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -113,8 +112,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=green" alt="medium Badge"/>
 </a>
 
-
-streak things
-
-i aren't didn't miss you
 --->
