@@ -19,14 +19,14 @@
   <a href="https://twitter.com/dtechbro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-<!-- wakatime badge -->
+</div>
+
+<!-- Wakatime badge -->
   <a href="https://wakatime.com/@61256cb1-bc04-43ff-b491-f526a7a9668b">
     <img src="https://wakatime.com/badge/user/61256cb1-bc04-43ff-b491-f526a7a9668b.svg" alt="Total time coded since Jun 9 2023" />
   </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=Developer-in-Tech&style=flat-square&color=blue" alt=""/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Developer-in-Tech&style=flat-square&color=blue" alt=""/>
   
 <h1>
   <!-- Welcome to --> Muhammad-Nabeel (dtechbro)'s profile!
