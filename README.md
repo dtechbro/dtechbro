@@ -65,6 +65,10 @@ If you have any questions or just want to chat about Frontend development, don't
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dtechbro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtechbro&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" width="50%" alt="dtechbro" /> | <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="50%" alt="Muhammad-Nabeel's Dev Card"/></a> |
+| ------------- | ------------- |
+
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechbro&theme=light" width="50%" alt="dtechbro" />
   <a href="https://app.daily.dev/dtechbro"><img src="https://api.daily.dev/devcards/v2/y32k3ebEDipGsR2vZXQSA.png?r=dic&type=wide" width="50%" alt="Muhammad-Nabeel's Dev Card"/></a>
