@@ -42,7 +42,7 @@ Hello and welcome to my GitHub profile! My name is Muhammad-Nabeel (dtechbro) an
 
 I have always been drawn to the power and potential of open-source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
-If you have any questions or just want to chat about Frontend development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas. [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:princeakinola05@gmail.com)
+If you have any questions or want to chat about Frontend development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas. [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:princeakinola05@gmail.com). Check out my pinned repos for my latest projects.
 
 ---
 ### 🔩 GitHub Stat, Languages and Tools.
