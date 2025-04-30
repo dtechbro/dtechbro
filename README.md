@@ -8,7 +8,7 @@
   </a>
 
 <!-- Portfolio badge -->
-  <a href="https://dtechbro.netlify.app/">
+  <a href="https://dtechbro.vercel.app/">
      <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/>
   </a>
   
